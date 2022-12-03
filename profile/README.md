@@ -6,5 +6,6 @@
 
 👩‍💻 List of our products:
 - Lost pet search system based on urban CCTV
+- Automatic dataset collection framework for Computer Vision tasks
 
 ### Stay tuned!
