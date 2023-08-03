@@ -1,7 +1,7 @@
 ## Hello world!
 
 👋 Welcome to nkb-tech's organization on GitHub where we love all things open source.<br />
-🙋‍ We are making the world more confortable by ML/CV technologies.
+🙋‍ We are making the world more confortable by ML/CV technologies.<br />
 🤖 Check out our web-page: http://nkbtech.tilda.ws/
 
 
